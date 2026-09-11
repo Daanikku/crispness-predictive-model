@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Archivos generados por la aplicación
+grafica_modelo.png
+comparacion_modelos.png
+
+# IDE
+.vscode/
+.idea/

@@ -10,6 +10,9 @@ env/
 grafica_modelo.png
 comparacion_modelos.png
 
+# Informe académico (solo local, no versionado)
+/Modelacion Reto 1.md
+
 # IDE
 .vscode/
 .idea/
